@@ -1,0 +1,4 @@
+PyQt5
+Flask
+SQLAlchemy
+# Additional dependencies for a production web browser application can be added here.
