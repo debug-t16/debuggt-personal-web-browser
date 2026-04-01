@@ -13,8 +13,8 @@ setup(
         ],
     },
     # Additional metadata
-    author='RAsheed Ali Phiri',  # Replace with your name
-    author_email='shidahaliphiri@gmail.com',  # Replace with your email
+    author='RAsheed Ali Phiri',  
+    author_email='shidahaliphiri@gmail.com',  
     description='A secure Python-based web application designed for showcasing personal portfolios, featuring controlled access to content.',  # Replace with a description
     license='MIT',  # Choose an appropriate license
 )
